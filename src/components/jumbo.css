@@ -1,0 +1,44 @@
+.wp-jumbotron{
+    
+    background-image:url("jumbo.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px 400px;
+    height: 400px;
+    margin-top: 0px;
+}
+
+.lead{
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 40px;
+    color: #ffc846;
+    margin-top: 0px;
+}
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+    
+}
+.wp-jumbotron-title{
+    color: #ffc846;
+    margin-top: 150px;
+}
+section{
+    margin-top: 0px;
+    background-color: antiquewhite;
+}
+.footer{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+}
+.copyright{
+    text-align: center;
+    }
+h3{
+    color: #ffc846;
+}
+.links{
+    color: aliceblue;
+}

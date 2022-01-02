@@ -1,0 +1,35 @@
+.HeaderNew{
+    display: flex;
+    background-color: blueviolet;
+    justify-content: space-around;
+    height: 80px;
+    align-items: center;
+}
+.item{
+    color: #ffc846;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    cursor: pointer;
+    font-size: 20px;
+
+}
+#complogo{
+    height: 50px;
+    width: 50px;
+}
+#btnlogin{
+    border: 1px solid #ffc846!important;
+    border-radius: 7px;
+    height: 30px;
+    color: #ffc846;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 2px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+    #loginlink{
+        text-decoration: none;
+        color: #ffc846;
+    }
+
